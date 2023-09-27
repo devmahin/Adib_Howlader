@@ -73,7 +73,7 @@
     }
     
     #clock .box p{
-        font-size: 4vw;
+        font-size: 3vw;
     }
     #main img{
         display: block;
@@ -81,4 +81,11 @@
         height: 100%;
         object-fit: cover
     }
+    #allBox{
+        width: 80%;
+        
+    
+    }
   }
+
+
